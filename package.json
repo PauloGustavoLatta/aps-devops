@@ -1,7 +1,7 @@
 {
   "name": "aps-devops",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/PauloGustavoLatta/aps-devops.git"
