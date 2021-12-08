@@ -13,7 +13,7 @@ export const Home: FunctionComponent = () => {
         alignItems: 'center'
       }}
     >
-      <p>Bem-vindo à tela inicial.</p>
+      <p>Bem-vindo à tela inicial aaaaaaaaaaa.</p>
     </div>
   );
 }
